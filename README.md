@@ -26,10 +26,10 @@ Clone the repository into your `resources` folder:
 
 ```bash
 cd resources
-git clone https://github.com/yourusername/uthink_afk.git
+git clone https://github.com/uthinkeD/uthink_afk
 ```
 
-> Or [download the ZIP](https://github.com/yourusername/uthink_afk/archive/refs/heads/main.zip) and extract it manually into the `resources` folder.
+> Or [download the ZIP](https://github.com/uthinkeD/uthink_afk/archive/refs/heads/main.zip) and extract it manually into the `resources` folder.
 
 ---
 
@@ -95,7 +95,7 @@ This script is open source and free to use. Modification is allowed.
 ## 🆘 Support & Help
 If you need help setting up or customizing the stash system, feel free to:
 
-💬 Open an [issue](https://github.com/uthinkeD/uthink_afk/issue) on GitHub
+💬 Open an [issue](https://github.com/uthinkeD/uthink_afk/issues) on GitHub
 
 📩 Contact me directly on Discord: u_think.
 
